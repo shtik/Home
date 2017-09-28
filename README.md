@@ -15,3 +15,5 @@ microservice for Questions.
 microservice for viewer Notes.
 - **[Rendering](https://github.com/shtik/Rendering)** -
 Markdown rendering package used by **cli** and **Live**.
+- **[PowerShtik](https://github.com/shtik/PowerShtik)** -
+PowerPoint plug-in
